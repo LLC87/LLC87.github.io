@@ -1,0 +1,37 @@
+h1{
+    color:red;
+    font-size:50px;
+}
+h2{
+    color:#9027f5cc;
+}
+div{
+     width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+  border: solid blue 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+p{
+    color:#177a0fcc;
+
+}
+.copy{
+   padding: 20px;
+    border: 2px solid teal;
+    margin: 15px; 
+}
+.filler{
+    background-color: blue;
+    padding: 5px 10px;
+}
+*{
+margin: 0;
+padding:0;
+box-sizing: border-box;
+border: 1px solid black;
+font-family: roman, 'times new roman', times, serif;
+}
+
