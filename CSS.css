@@ -16,4 +16,12 @@ div{
 }
 p{
     color:#177a0fcc;
+
+}
+*{
+margin: 0;
+padding:0;
+box-sizing: border-box;
+border: 1px solid black;
+font-family: roman, 'times new roman', times, serif;
 }
