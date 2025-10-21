@@ -2,9 +2,9 @@ h1{
     color:red;
     font-size:50px;
 }
-h2{
+/*h2{
     color:#9027f5cc;
-}
+}*/
 div{
      width: 500px;
   margin: 20px auto;
@@ -18,4 +18,5 @@ p{
     color:#177a0fcc;
 
 }
+
 
